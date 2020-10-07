@@ -14,12 +14,10 @@
  *= require_self
  */
 
-/* .top-header {
+.top-header {
   height: 65vh;
   background-image: url('sample.jpg');
   background-repeat: no-repeat;
   background-position: right bottom;
   background-size: cover;
-} */
-
-
+}
